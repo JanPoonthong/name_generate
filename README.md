@@ -1,4 +1,4 @@
 # Name Generator
 
 ### Run
-`./generate.py`
+    $ ./generate.py
